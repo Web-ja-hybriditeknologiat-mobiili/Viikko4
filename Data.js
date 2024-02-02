@@ -1,0 +1,21 @@
+export const DATA = [
+    {
+        id:"1",
+        firstname:"Henri",
+        lastname:"Hyvarinen"
+    },
+    {
+        id:"2",
+        firstname:"Mikko",
+        lastname:"Ojala"
+    },{
+        id:"3",
+        firstname:"Kari",
+        lastname:"Heikkilä"
+    },
+    {
+        id:"4",
+        firstname:"Petteri",
+        lastname:"Ollila"
+    }
+]
